@@ -19,7 +19,6 @@
   <img src="icons/typescript.png" alt="typescript" title="typescript" height="33px"/>
   <img src="icons/jwt.png" alt="jwt" title="jwt" height="33px"/> 
   <img src="icons/postman" alt="postman" title="postman" height="33px"/> 
-  <img src="icons/jwt.png" alt="jwt" title="jwt" height="33px"/>
   <img src="icons/sql.jpeg" alt="sql" title="sql" height="33px"/>
   <img src="icons/mysql.png" alt="mysql" title="mysql" height="33px"/>
   <img src="icons/visualstudio.jpeg" alt="visualstudio" title="visualstudio" height="33px"/>
