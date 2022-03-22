@@ -16,6 +16,7 @@
 <p align="center">
   <img src="icons/csharp.jpeg" alt="C#" title="C#" height="33px"/>
   <img src="icons/dotnet-mvc.jpeg" alt="dotnet" title="dotnet" height="33px"/>
+  <img src="icons/typescript.png" alt="typescript" title="typescript" height="33px"/>
   <img src="icons/jwt.png" alt="jwt" title="jwt" height="33px"/> 
   <img src="icons/postman" alt="postman" title="postman" height="33px"/> 
   <img src="icons/jwt.png" alt="jwt" title="jwt" height="33px"/>
