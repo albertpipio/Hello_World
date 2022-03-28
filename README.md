@@ -1,6 +1,6 @@
 ### Hello World! I’m Albert Pipió Adroher
 - 👀 I'm interested in Back-End Web Development (.NET)
-- 🌱 I'm currently learning Hexagonal Architecture and Agile.
+- 🌱 I'm currently learning Hexagonal Architecture and Agile methodology.
 - 💞️ I’m looking to contribute on exciting projects where I can contribute with my skills and knowledge.
 - 📫 Contact: albertpipio@gmail.com
 
